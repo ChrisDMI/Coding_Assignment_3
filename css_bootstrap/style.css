@@ -43,18 +43,19 @@ body{
 
 #nav-list{
 	margin-top: 10px;
-	position: static;	
+	position: static;
+
+
+	
 }
-
-
 
 #nav-list a{
     color:black;
     text-align: center;
-   
+
+
+    
 }
-
-
 
 
 #collapsable-nav{
@@ -91,7 +92,6 @@ body{
 	margin-top: 35px;
 	color:black;
 	font-weight: bold;
-	
 
 
 }
@@ -100,8 +100,7 @@ body{
 #block{
 	background-color: #A9A9A9;
 	padding-top: 10px;
-	margin: 50px auto;
-	clear:both;
+	 margin: 15px auto;
 	
 }
 
@@ -123,15 +122,14 @@ body{
 
 
 
-
+}
 
 @media (max-width: 767px){
 	#block{
-		background-color: #A9A9A9;
-		padding-top: 10px;
-		margin-right: 50px;
-		margin-left: 50px;
-	}
+	background-color: #A9A9A9;
+	padding-top: 10px;
+	margin-right: 50px;
+	margin-left: 50px;
 	
 }
-
+}
